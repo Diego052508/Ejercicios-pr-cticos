@@ -2,7 +2,7 @@ package run;
 
 import java.util.Scanner;
 
-public class clasificadorcontrasena {
+public class main {
 
     public static String clasificar(String password) {
 
